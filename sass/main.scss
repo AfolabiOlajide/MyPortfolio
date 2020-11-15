@@ -12,6 +12,7 @@ $secondary: #34A447;
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    scroll-behavior: smooth;
 }
 body{
     font-family: 'Nunito', sans-serif;
@@ -91,6 +92,7 @@ header{
                     text-transform: uppercase;
                     font-weight: bold;
                     color: $primary;
+                   
                 }
             }
         }
